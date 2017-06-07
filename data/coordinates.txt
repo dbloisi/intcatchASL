@@ -1,0 +1,41 @@
+# atlantide.png
+
+# UL
+45.360600, 11.019061
+X (easting): 658131.196
+Y (northing): 5024992.68
+
+# BR
+45.358207, 11.024177
+X (easting): 658538.561
+Y (northing): 5024736.897
+
+
+# atlantide-detail.png
+
+# UL
+45.359526, 11.019881
+X (easting): 658198.412
+Y (northing): 5024874.977
+Zone:   32
+
+# BR
+45.358839, 11.021578
+X (easting): 658333.238
+Y (northing): 5024801.992
+Zone:   32
+
+
+#lake.png
+
+# UL
+ul_lat = 45.361284;
+ul_lng = 11.019002;        
+ul_utm_easting = 658124.67;
+ul_utm_northing = 5025068.55;
+	 
+# BR	 
+br_lat = 45.358201;
+br_lng = 11.024667; 
+br_utm_easting = 658576.96;
+br_utm_northing = 5024737.20;
